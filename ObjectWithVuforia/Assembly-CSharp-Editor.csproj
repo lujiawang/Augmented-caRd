@@ -273,16 +273,16 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Assets/echoAR/Libraries/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Assets/echoAR/Libraries/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions.Editor">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/PackageCache/com.ptc.vuforia.engine@716a8216fe/Vuforia/Plugins/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/PackageCache/com.ptc.vuforia.engine@716a8216fe/Vuforia/Plugins/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Vuforia.UnityExtensions">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/PackageCache/com.ptc.vuforia.engine@716a8216fe/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/PackageCache/com.ptc.vuforia.engine@716a8216fe/Vuforia/Plugins/Managed/Runtime/Vuforia.UnityExtensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -645,43 +645,43 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaScripts">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/VuforiaScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="VuforiaEditorScripts">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/VuforiaEditorScripts.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/ObjectWithVuforia/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/zsdsn/Desktop/CTIN 499 AR/Augmented-caRd/ObjectWithVuforia/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

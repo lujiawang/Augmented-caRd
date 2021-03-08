@@ -107,7 +107,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14536}
     - Class: 114
-      Script: {instanceID: 20508}
+      Script: {instanceID: 14630}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1949,6 +1949,12 @@ ScriptsOnlyBuild:
     className: Sample08_DetectDoubleClick
   - hash:
       serializedVersion: 2
+      Hash: f450bd92c660880e07a6cb4e4f93cd6d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ModelActivate
+  - hash:
+      serializedVersion: 2
       Hash: 0fd6822f6177297bd0eb4d83cc7a9030
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -2211,12 +2217,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: f450bd92c660880e07a6cb4e4f93cd6d
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: ModelActivate
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
